@@ -12,7 +12,7 @@ git clone https://github.com/santiagosamuel3455/ComfyUI-aspect_ratio_selector.gi
 
 ## Ejemplo Workflow
 
- ![](2025-05-17+091205.png)
+ ![]([2025-05-17+091205.png](https://github.com/santiagosamuel3455/ComfyUI-aspect_ratio_selector/blob/main/2025-05-17%20091205.png))
 
 ## Informacion
 - Este nodo fue diseñado para facilitar los cambioos de resolucion al generar una imagen o un video con IA en ComfyUI.
