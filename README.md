@@ -4,7 +4,7 @@ Official [Aspect Ratio Selector](https://github.com/santiagosamuel3455/ComfyUI-a
 
 Mi Canal [Youtube](https://www.youtube.com/@IA.Sistema.de.Interes)
 
-## Instalacion manual
+## Instalación manual
 ```
 cd custom_nodes
 git clone https://github.com/santiagosamuel3455/ComfyUI-aspect_ratio_selector.git
@@ -14,10 +14,10 @@ git clone https://github.com/santiagosamuel3455/ComfyUI-aspect_ratio_selector.gi
 
  ![]([2025-05-17+091205.png](https://github.com/santiagosamuel3455/ComfyUI-aspect_ratio_selector/blob/main/2025-05-17%20091205.png))
 
-## Informacion
-- Este nodo fue diseñado para facilitar los cambioos de resolucion al generar una imagen o un video con IA en ComfyUI.
-- La funcion que cumple sera analizar el tamaño de la imageen y de adaptar 4 tipo de resolucioins.
-- Tendras la opcion de deabilitar la opcioin de imagen y solo selecioanr la relacion de aspecto.
+## Información
+- Este nodo fue diseñado para facilitar los cambios de resolución al generar una imagen o un video con IA en ComfyUI.
+- La función que cumple será analizar el tamaño de la imagen y de adaptar 4 tipos de resolución.
+- Tendrás la opción de debilitar la opción de imagen y solo seleccionar la relación de aspecto.
 - Se puede utilizar en: Flux, SDLX, Hidream, LTXV, Wan 2.1, Hunyuan, etc.
 ```
 resolutions = {
